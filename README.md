@@ -1,2 +1,2 @@
 # ollamaexp
-Experiment with oolama for local models
+Experiment with oolama for local LLMs.
